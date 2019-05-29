@@ -10,8 +10,12 @@ The pieces fall straight down, occupying the next available space within the col
 
 The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
 
-The game supports Two Player Game and One Player Game (Human vs Computer)
+The game supports Two Player Game and One Player Game (Human vs Computer) with 3 levels of difficulty.
 
 # Algorithm
 
 Alpha-Beta AI algorithm
+
+# Screenshot
+
+![alt text](https://github.com/ashrafghanem/Connect-Four-Game/blob/master/connect_four.PNG)
